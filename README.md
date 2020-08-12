@@ -1,1 +1,1 @@
-# Phd-thesis-of-mine
+# I have uploaded my Phd thesis title includes "Perils of Genome Assembly: Data types and sequencing platform defines optimal genome assembly in prokaryotes and eukaryotes" from Indian institute of chemical Biology , India.
